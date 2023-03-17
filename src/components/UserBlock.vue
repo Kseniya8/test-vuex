@@ -2,7 +2,7 @@
   <div class="user-block" @click="detailedUser">
     <div class="user-block__img">
       <img
-        src="https://i10.fotocdn.net/s118/64eaf4d89872c45a/user_l/2698648794.jpg"
+        src="https://uprostim.com/wp-content/uploads/2021/05/image011-7.jpg"
         :alt="user.username"
       />
     </div>
